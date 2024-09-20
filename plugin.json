@@ -1,9 +1,9 @@
 {
     "name": "Jina Integration",
-    "version": "0.0.1",
-    "description": "Adding Jina embedders",
+    "version": "0.0.2",
+    "description": "Adding Jina embedders API",
     "author_name": "valentimarco, nickprock",
     "plugin_url": "https://github.com/valentimarco/Jina-Integration",
-    "tags": "cat, integrations, embedder",
+    "tags": "cat, integrations, embedder, cloud",
     "thumb": "https://pbs.twimg.com/profile_images/1684472754597142529/tyM92sRA_400x400.jpg"
 }
