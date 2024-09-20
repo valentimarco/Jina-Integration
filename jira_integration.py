@@ -1,8 +1,8 @@
 from typing import Type, List
 
-from cat.mad_hatter.decorators import tool, hook, plugin
+from cat.mad_hatter.decorators import hook
 from cat.factory.embedder import EmbedderSettings
-from langchain.embeddings import JinaEmbeddings
+from langchain_community.embeddings import JinaEmbeddings
 from pydantic import ConfigDict
 
 
